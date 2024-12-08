@@ -1,9 +1,5 @@
 # Software_testing
 
-<p align="center">
-  <img src="https://e0.pxfuel.com/wallpapers/728/500/desktop-wallpaper-progress-work-in-progress.jpg" alt="Centered Image" width="600">
-</p>
-
 In this assignment I implemented two functions from my project (I simplified so it doesnt include firebase or connected to the rest of the functionalities)
 
 ---
@@ -121,4 +117,4 @@ Run program pytest coverage
     coverage report -m
 ```
 
-p.s. Dr. Abu Mallouh - This is piedrabuena
+p.s. Dr. Abu Mallouh - This is Natasha Piedrabuena
