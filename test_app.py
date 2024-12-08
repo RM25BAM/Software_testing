@@ -21,3 +21,6 @@ def test_login_missing_fields():
     app = App()
     result = app.login(email="", password="password123")
     assert result["message"] == "All fields are required"
+
+
+# :-) This is the change RM
