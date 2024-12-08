@@ -1,0 +1,5 @@
+app = App()
+signup_result = app.signup(name="John Doe", email="john.doe@example.com", password="password123")
+print(signup_result)
+login_result = app.login(email="john.doe@example.com", password="password123")
+print(login_result)
